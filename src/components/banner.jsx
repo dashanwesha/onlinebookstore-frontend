@@ -11,13 +11,7 @@ const banner = () => {
             Books
           </h1>
           <p className="text-lg sm:text-xs w-full sm:w-3/4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Reprehenderit alias quasi tenetur corrupti optio minima deserunt,
-            repellat tempora eos. Eius accusamus ex optio cumque saepe impedit
-            numquam aspernatur perspiciatis rem! Lorem ipsum dolor sit amet
-            consectetur adipisicing elit. Eligendi aliquam minima in ratione quo
-            dolorem sunt, ea consequuntur impedit voluptatum enim nobis! Quod
-            maiores nihil inventore ipsam ad quis soluta?
+          Books are more than just pages filled with words; they are windows to new worlds, ideas, and perspectives. They educate, inspire, and transport us beyond our realities, broadening our minds and enriching our souls. Whether it’s fiction that takes us on thrilling adventures, non-fiction that deepens our knowledge, or self-help books that guide us through life’s challenges, every book has something valuable to offer. 
           </p>
           <div className="flex items-center w-[300px]">
             <input
