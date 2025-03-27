@@ -1,8 +1,3 @@
-let url = ""
-if(import.meta.env.PROD){
-    url = "https://online-bookstore-backend-olive.vercel.app"
-}else{
-    url = "http://localhost:3000"
-}
+let url = "https://onlinebookstore-backend-glt2.onrender.com"
 
 export default url
